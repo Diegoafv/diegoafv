@@ -7,7 +7,7 @@
 ```javascript
 const diegoFerreira = {
     role: ["Full-Stack Developer", "Mobile Developer"],
-    code: ["Javascript", Typescript, "Python", "C#"],
+    code: ["Javascript", "Typescript", "Python", "C#"],
     technologies: ["React", "ReactNative", "NodeJS", "Express", "NextJS", "Tailwind"],
     databases: ["MongoDB", "MySql", "Postgres"],
     misc: ["Git", "Github", "Figma"],
