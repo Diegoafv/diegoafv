@@ -1,6 +1,7 @@
 ## <h1 align="center">Hey there! Nice to see you here. 👋</h1>
 
 <div align="center">I'm Diego Ferreira, a passionate Full Stack and Mobile Developer based in LA.</div>
+
 <br/>
 
 ```javascript
@@ -18,12 +19,10 @@ console.log("Thanks for dropping by!");
 
 <br/>
 
-
-
 <div align="center">
   <a href="https://github.com/diegoafv">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegoafv&title_color=blue&icon_color=purple&hide=stars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoafv&title_color=blue&hide=ruby&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegoafv&title_color=blue&icon_color=purple&hide=stars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoafv&title_color=blue&hide=ruby&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -39,7 +38,6 @@ console.log("Thanks for dropping by!");
 
   ##
 
-
 <div align="center">Let's connect!</div>
 <br/>
 <div align="center"> 
@@ -48,8 +46,6 @@ console.log("Thanks for dropping by!");
 </div>
 
 <br/>
-
-
 
 
 <!--
