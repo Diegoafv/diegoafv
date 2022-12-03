@@ -46,8 +46,6 @@ console.log("Thanks for dropping by!");
 </div>
 
 <br/>
-
-
 <!--
 **Diegoafv/diegoafv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
